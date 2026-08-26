@@ -1,0 +1,14 @@
+# Ignore large raw data files
+Data/Raw/*.csv
+Data/processed/*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db

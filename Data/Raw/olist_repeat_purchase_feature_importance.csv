@@ -1,0 +1,10 @@
+feature,importance
+category_enc,0.16600618
+payment_installments_max,0.13147447
+first_order_freight,0.13106751
+first_order_items,0.12821275
+first_order_price,0.123270735
+payment_enc,0.1029749
+state_enc,0.077562995
+first_order_review_score,0.076551735
+first_order_late,0.06287863
