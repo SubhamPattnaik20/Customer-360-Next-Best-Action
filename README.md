@@ -23,6 +23,22 @@ This project simulates a real-world customer intelligence system: identifying wh
 6. Next-Best-Action recommendation engine
 7. Power BI dashboard
 
+## Key Insights
+
+
+
+![Customer Segment Distribution](notebooks/images/customer_segment_distribution.png)
+
+
+
+
+![Predicted CLV Distribution](notebooks/images/predicted_clv_distribution.png)
+
+
+
+
+![Churn Probability by Segment](notebooks/images/churn_probability_by_segment.png)
+
 ## Dashboard Preview
 
 
